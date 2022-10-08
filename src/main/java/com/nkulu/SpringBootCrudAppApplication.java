@@ -16,7 +16,7 @@ public class SpringBootCrudAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootCrudAppApplication.class, args);
-		//System.out.println("Connected to Server.");
+		System.out.println("Connected to Server.");
 	}
 
 }
